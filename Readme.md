@@ -1,5 +1,8 @@
 # Events
 
+theme: jekyll-theme-cayman
+
+
 |Sr. No.|      Name of Event Organized       |Faculty Coordinator|	    Duration      |	     Date(s)      |             Link of the event             |
 | ----- | ---------------------------------- | ----------------- | ------------------ | ----------------- | ----------------------------------------- |
 | 1.    |Teachers Day	                       |Prof. Yuvraj Singh |2:30 - 4:30 PM      |05-Sep-2019        |https://github.com/ACES-GNDEC/Event_01.git |

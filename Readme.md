@@ -12,7 +12,7 @@
 | 8.	  |Brains Out	                         |Prof. Yuvraj Singh |4:30 - 5:00 PM      |05-Jul-2020        |https://github.com/ACES-GNDEC/Event_08.git |
 | 9.	  |Teachers Day	                       |Prof. Yuvraj Singh |2:00 – 4:00 PM	    |05-Sep-2020        |https://github.com/ACES-GNDEC/Event_09.git |
 |10.    |Farewell 404	                       |Prof. Yuvraj Singh |4:00 – 6:00 PM	    |06-Sep-2020        |https://github.com/ACES-GNDEC/Event_10.git |
-|11.    |Engineers Week	                     |Prof. Yuvraj Singh |4:30 - 5:30 PM	    |14 - 20 Sep 2020   |https://github.com/ACES-GNDEC/Event_11.git |
+|11.    |Engineers Week	                     |Prof. Yuvraj Singh |4:30 - 5:30 PM	    |14 - 20 Sep 2020   |https://github.com/ACES-GNDEC/Event_12.git |
 |12.	  |Squiz your Mind	                   |Prof. Yuvraj Singh |5:30 - 6:00 PM	    |16 - 18 Sep 2020   |https://github.com/ACES-GNDEC/Event_12.git |
 |13.	  |Getting started with Git and Github |Prof. Yuvraj Singh |11:00 AM- 12:45 PM	|27 Sep 2020        |https://github.com/ACES-GNDEC/Event_13.git |
 |14.	  |FreeCAD - The designing Contest     |Prof. Yuvraj Singh |Till 12 AM          |11 - 15 Oct 2020   |https://github.com/ACES-GNDEC/Event_14.git |

@@ -19,3 +19,4 @@
 |15.	  |Click-Pic-Diwali	                   |Prof. Yuvraj Singh |Till 12 AM          |14 - 15 Oct 2020   |https://github.com/ACES-GNDEC/Event_15.git |
 |16.	  |Children’s Day	                     |Prof. Yuvraj Singh |10 AM               |14-Nov-2020        |https://github.com/ACES-GNDEC/Event_16.git |
 |17.	  |Kala Purab	                         |Prof. Yuvraj Singh |Till 12:00 AM	      |27 - 30 Nov 2020   |https://github.com/ACES-GNDEC/Event_17.git |
+|18.    |Holi (Greetings)                    |Prof. Yuvraj Singh |11 AM               |29-Mar-2021        |https://github.com/ACES-GNDEC/Event_18.git |                             |19.    |Skillenzia                          |Prof. Yuvraj Singh |Till 12 AM          |10 - 17Mar-2021    |https://github.com/ACES-GNDEC/Event_19.git |                                                 

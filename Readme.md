@@ -26,5 +26,5 @@
 |22.    |Plot the Plot                       |Prof. Yuvraj Singh |2:30 - 4:00 PM      |7 May 2021         |https://github.com/ACES-GNDEC/Event_22.git |
 |23.    |Technical Paper Presentation        |Prof. Yuvraj Singh |10:00 AM - 12:00 PM |8 May 2021         |https://github.com/ACES-GNDEC/Event_23.git |
 |24.    |Durability of Concrete              |Prof. Yuvraj Singh |11:00 AM - 12:00 PM |26 May 2021        |https://github.com/ACES-GNDEC/Event_24.git | 
-|25.    |Ek Chatur                           |Prof. Yuvraj Singh |4:00 PM - 5:05 PM   |26 August 2021     |https://github.com/ACES-GNDEC/Event_24.git |
+|25.    |Ek Chatur                           |Prof. Yuvraj Singh |4:00 PM - 5:05 PM   |26 August 2021     |https://github.com/ACES-GNDEC/Event_25.git |
 

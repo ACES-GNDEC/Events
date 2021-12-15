@@ -27,4 +27,10 @@
 |23.    |Technical Paper Presentation        |Prof. Yuvraj Singh |10:00 AM - 12:00 PM |8 May 2021         |https://github.com/ACES-GNDEC/Event_23.git |
 |24.    |Durability of Concrete              |Prof. Yuvraj Singh |11:00 AM - 12:00 PM |26 May 2021        |https://github.com/ACES-GNDEC/Event_24.git | 
 |25.    |Ek Chatur                           |Prof. Yuvraj Singh |4:00 PM - 5:05 PM   |26 August 2021     |https://github.com/ACES-GNDEC/Event_25.git |
+|26.    |Teachers Day	                       |Prof. Yuvraj Singh |1:00 PM	            |05 Sep 2021        |https://github.com/ACES-GNDEC/Event_26.git |
+|27.    |ACES Felicitation Ceremony          |Prof. Yuvraj Singh |2:00 PM - 4:00 PM   |15 Sept 2021       |https://github.com/ACES-GNDEC/Event_27.git |
+|28.    |Engineers' Day                      |Prof. Yuvraj Singh |2:00 PM - 4:00 PM   |15 Sept 2021       |https://github.com/ACES-GNDEC/Event_28.git |
+|29.    |Article Wririting Contest           |Prof. Yuvraj Singh |Till 12 AM          |12 - 16 Sep 2021   |https://github.com/ACES-GNDEC/Event_29.git |
+|30.    |Race to Win                         |Prof. Yuvraj Singh |Till 5 PM           |12 - 13 Oct 2021   |https://github.com/ACES-GNDEC/Event_30.git |
+
 
